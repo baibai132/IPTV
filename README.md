@@ -24,7 +24,7 @@
 
 ### ⛓️创建您的m3u订阅链接：
  - 下载 `demo.m3u` 空白示例文件并使用文本编辑软件打开。
-   - [https://live.fanmingming.com/tv/m3u/demo.m3u](https://live.fanmingming.com/tv/m3u/demo.m3u)
+   - [https://live.fanmingming.com/tv/m3u/demo.m3u](blob:https://github.com/c925e946-0fb0-45ce-bf4d-b944641862be)
 
  - 参考下方示例代码将`可用的CCTV1节目源`替换为您当地可用的直播源链接，依此类推逐个替换。
 
