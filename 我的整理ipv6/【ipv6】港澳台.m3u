@@ -4,7 +4,10 @@
 港澳台频道,#genre#
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳台",凤凰中文
 https://stream1.freetv.fun/feng-huang-zhong-wen-1.m3u8
+
+https://stream1.freetv.fun/feng-huang-zhong-wen-10.ctv
+
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港澳台",凤凰资讯
-http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
+http://60.164.128.167:8029/rtp/239.255.30.70:8231$1920x1080
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台",凤凰香港
-http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
+http://www.lebaobei.top:6868/rtp/239.255.30.123:8231$1920x1080
