@@ -1,0 +1,10 @@
+
+
+
+🎬淘频道频道,#genre#
+#EXTINF:-1 tvg-name="淘剧场" tvg-logo="https://live.fanmingming.com/tv/淘剧场.png" group-title="🎬淘频道",淘剧场
+http://114.252.225.255:8000/rtp/239.3.1.95:8001$1920x1080
+#EXTINF:-1 tvg-name="淘娱乐" tvg-logo="https://live.fanmingming.com/tv/淘娱乐.png" group-title="🎬淘频道",淘娱乐
+http://114.252.225.255:8000/rtp/239.3.1.100:8001$1920x1080
+#EXTINF:-1 tvg-name="淘电影" tvg-logo="https://live.fanmingming.com/tv/淘电影.png" group-title="🎬淘频道",淘电影
+http://114.252.225.255:8000/rtp/239.3.1.250:8001$1920x1080
