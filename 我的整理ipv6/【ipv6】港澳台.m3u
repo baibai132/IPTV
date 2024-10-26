@@ -36,7 +36,7 @@ http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="🌊港·澳·台",TVB星河
 
 #EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="🌊港·澳·台",TVB翡翠台
-https://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 #EXTINF:-1 tvg-name="翡翠台(泰国)" tvg-logo="https://live.fanmingming.com/tv/翡翠台(泰国).png" group-title="🌊港·澳·台",翡翠台(泰国)
 http://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVBPlus" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="🌊港·澳·台",TVBPlus
