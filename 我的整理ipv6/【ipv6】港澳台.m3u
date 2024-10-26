@@ -36,10 +36,20 @@ http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8585/.m3u8
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://live.fanmingming.com/tv/东森超视.png" group-title="🌊港·澳·台",东森超视
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8525/.m3u8
 
-
-
 #EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="🌊港·澳·台",TVB翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+#EXTINF:-1 tvg-name="TVB 经典台" tvg-logo="https://live.fanmingming.com/tv/TVB 经典台.png" group-title="🌊港·澳·台",TVB 经典台
+
+#EXTINF:-1 tvg-name="TVB+" tvg-logo="https://live.fanmingming.com/tv/TVB+.png" group-title="🌊港·澳·台",TVB+
+
+#EXTINF:-1 tvg-name="TVBJ2" tvg-logo="https://live.fanmingming.com/tv/TVBJ2.png" group-title="🌊港·澳·台",TVBJ2
+
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="🌊港·澳·台",TVBS
+
+#EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://live.fanmingming.com/tv/TVBS亚洲.png" group-title="🌊港·澳·台",TVBS亚洲
+#EXTINF:-1 tvg-name="TVB DRAMA" tvg-logo="https://live.fanmingming.com/tv/TVB DRAMA.png" group-title="🌊港·澳·台",TVB DRAMA
+#EXTINF:-1 tvg-name="TVB DRAMA" tvg-logo="https://live.fanmingming.com/tv/TVB DRAMA.png" group-title="🌊港·澳·台",TVB DRAMA
+#EXTINF:-1 tvg-name="TVB DRAMA" tvg-logo="https://live.fanmingming.com/tv/TVB DRAMA.png" group-title="🌊港·澳·台",TVB DRAMA
 
 
 #EXTINF:-1 tvg-name="TVBPlus" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="🌊港·澳·台",TVBPlus
