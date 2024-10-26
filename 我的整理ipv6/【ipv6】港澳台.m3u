@@ -21,6 +21,8 @@ http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
 
 =====================================================================================================
 
+#EXTINF:-1 tvg-name="TVB 经典台" tvg-logo="https://live.fanmingming.com/tv/TVB 经典台.png" group-title="🌊港·澳·台",TVB 经典台
+
 #EXTINF:-1 tvg-name="TVB+" tvg-logo="https://live.fanmingming.com/tv/TVB+.png" group-title="🌊港·澳·台",TVB+
 
 #EXTINF:-1 tvg-name="TVBJ2" tvg-logo="https://live.fanmingming.com/tv/TVBJ2.png" group-title="🌊港·澳·台",TVBJ2
@@ -57,7 +59,6 @@ http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 
 
 
-#EXTINF:-1 tvg-name="TVB 经典台" tvg-logo="https://live.fanmingming.com/tv/TVB 经典台.png" group-title="🌊港·澳·台",TVB 经典台
 
 
 
