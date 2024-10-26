@@ -45,8 +45,10 @@ https://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 https://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVBJade" tvg-logo="https://live.fanmingming.com/tv/TVBJade.png" group-title="🌊港·澳·台",TVBJade
 
-#EXTINF:-1 tvg-name="中視" tvg-logo="https://live.fanmingming.com/tv/中視.png" group-title="🌊港·澳·台",中視
+#EXTINF:-1 tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="🌊港·澳·台",中视
 https://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+#EXTINF:-1 tvg-name="华视" tvg-logo="https://live.fanmingming.com/tv/华视.png" group-title="🌊港·澳·台",华视
+https://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
 #EXTINF:-1 tvg-name="中天新聞" tvg-logo="https://live.fanmingming.com/tv/中天新聞.png" group-title="🌊港·澳·台",中天新聞
 https://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 #EXTINF:-1 tvg-name="寰宇新聞" tvg-logo="https://live.fanmingming.com/tv/寰宇新聞.png" group-title="🌊港·澳·台",寰宇新聞
