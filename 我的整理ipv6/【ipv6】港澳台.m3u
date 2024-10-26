@@ -40,3 +40,11 @@ http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8525/.m3u8
 
 #EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="🌊港·澳·台",TVB翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+
+
+
+
+#EXTINF:-1 tvg-name="TVBJade" tvg-logo="https://live.fanmingming.com/tv/TVBJade.png" group-title="🌊港·澳·台",TVBJade
+http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+#EXTINF:-1 tvg-name="TVBJade" tvg-logo="https://live.fanmingming.com/tv/TVBJade.png" group-title="🌊港·澳·台",TVB星河
+http://php.jdshipin.com:8880/smt.php?id=Xinhe
