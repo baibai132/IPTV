@@ -1,13 +1,10 @@
 港澳台频道,#genre#
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="🌊港·澳·台",凤凰中文
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="🌊港·澳·台",凤凰资讯
 http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="🌊港·澳·台",凤凰香港
 http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="http://live.fanmingming.com/tv/凤凰卫视.png" group-title="🌊港·澳·台",凤凰卫视
 
 #EXTINF:-1 tvg-name="TVB 经典台" tvg-logo="http://live.fanmingming.com/tv/TVB 经典台.png" group-title="🌊港·澳·台",TVB 经典台
@@ -94,7 +91,7 @@ http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 #EXTINF:-1 tvg-name="龙华日韩" tvg-logo="http://live.fanmingming.com/tv/龙华日韩.png" group-title="🌊港·澳·台",龙华日韩
 http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 #EXTINF:-1 tvg-name="龙华经典" tvg-logo="http://live.fanmingming.com/tv/龙华经典.png" group-title="🌊港·澳·台",龙华经典
-http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="http://live.fanmingming.com/tv/龙华电影.png" group-title="🌊港·澳·台",龙华电影
 http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 
