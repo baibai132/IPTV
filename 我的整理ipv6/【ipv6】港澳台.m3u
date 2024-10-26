@@ -43,6 +43,14 @@ https://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 https://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVBJade" tvg-logo="https://live.fanmingming.com/tv/TVBJade.png" group-title="🌊港·澳·台",TVBJade
 
+#EXTINF:-1 tvg-name="中天新聞" tvg-logo="https://live.fanmingming.com/tv/中天新聞.png" group-title="🌊港·澳·台",中天新聞
+https://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+#EXTINF:-1 tvg-name="寰宇新聞" tvg-logo="https://live.fanmingming.com/tv/寰宇新聞.png" group-title="🌊港·澳·台",寰宇新聞
+https://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+#EXTINF:-1 tvg-name="中天亞洲" tvg-logo="https://live.fanmingming.com/tv/中天亞洲.png" group-title="🌊港·澳·台",中天亞洲
+https://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+#EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://live.fanmingming.com/tv/靖天电影.png" group-title="🌊港·澳·台",靖天电影
+https://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 #EXTINF:-1 tvg-name="HKC 18" tvg-logo="https://live.fanmingming.com/tv/HKC 18.png" group-title="🌊港·澳·台",HKC 18
 
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://live.fanmingming.com/tv/纬来体育.png" group-title="🌊港·澳·台",纬来体育
